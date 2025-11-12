@@ -1,6 +1,6 @@
 # Embedded SW/SYS Engineer
-# 👋 Hi, I'm Kevin (Cheng-Chih) Lee
-📍 Irvine, CA | ✉️ [kevin.chengchihlee@gmail.com](mailto:kevin.chengchihlee@gmail.com)
+Kevin Lee
+Irvine, CA | ✉️ [kevin.chengchihlee@gmail.com](mailto:kevin.chengchihlee@gmail.com)
 
 ---
 
@@ -53,9 +53,8 @@
 ## 🚀 Featured Projects
 - **IoT LightSwarm Network (ESP32 + UDP):** Self-organizing node communication demo.  
 - **EV Inverter Firmware Optimizer:** Runtime CPU-load profiling and auto-report tool.  
-- **SystemC Image-Pipeline Simulator:** Concurrent FIFO-based module system.
 
 ---
 
 ## 🌐 Connect
-[LinkedIn](https://linkedin.com/in/kevincclee) | [GitHub](https://github.com/kevincclee) | [Portfolio Site](https://kevincclee.dev)
+[LinkedIn](www.linkedin.com/in/kevin-lee-253645167) | [GitHub]([https://github.com/kevincclee](https://github.com/kevin-chengchihlee)) | [Portfolio Site](https://kevin-chengchihlee.github.io/portfolio/)
