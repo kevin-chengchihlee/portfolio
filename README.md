@@ -71,4 +71,5 @@ B.S. in Mechanical Engineering
 ---
 
 ## 🌐 Connect
-[LinkedIn](www.linkedin.com/in/kevin-lee-253645167) | [GitHub](https://github.com/kevin-chengchihlee) | [Portfolio Site](https://kevin-chengchihlee.github.io/portfolio/)
+[LinkedIn](https://www.linkedin.com/in/kevin-lee-253645167) | [GitHub](https://github.com/kevin-chengchihlee) | [Portfolio Site](https://kevin-chengchihlee.github.io/portfolio/)
+
