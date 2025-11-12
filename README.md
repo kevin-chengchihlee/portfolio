@@ -6,14 +6,14 @@ Irvine, CA | ✉️ [kevin.chengchihlee@gmail.com](mailto:kevin.chengchihlee@gma
 
 ## 🎓 Education
 **University of California, Irvine**
-— M.S. in Embedded & Cyber-Physical Systems  *Sep 2025*
+M.S. in Embedded & Cyber-Physical Systems  *Sep 2025*
 
 **National Taiwan University**
-— M.S. in Mechanical Engineering  *Aug 2019 – Jul 2021*  
+M.S. in Mechanical Engineering  *Aug 2019 – Jul 2021*  
 **Thesis:** *Energy Management Strategy for Range-Extended Hybrid Scooter with HiL Validation and Well-to-Wheel CO₂ Evaluation*
 
 **National Cheng Kung University**
-— B.S. in Mechanical Engineering  *Aug 2014 – Jul 2018*
+B.S. in Mechanical Engineering  *Aug 2014 – Jul 2018*
 
 ---
 
@@ -44,19 +44,22 @@ Irvine, CA | ✉️ [kevin.chengchihlee@gmail.com](mailto:kevin.chengchihlee@gma
 ---
 
 ## 🧠 Skills
-- **Programming** : C, Python|Simulink|FreeRTOS|RTA-OS
-- **Development Platforms** : IBM Rhapsody|Enterprise Architect|IBM Rational|Jenkins
-- **Embedded Platforms** : STM32|ESP32|Infineon Aurix|Arduino|Raspberry Pi
-- **Validation Platforms** : VectorCAST|HelixQAC|dSPACE|MicroAutoBOX|AVL Dyno
-- **Standards/Frameworks** : MISRA C|ASPICE|Software-Dev-Life-Cycle|KGAS|ISO26262|HiL|CiL|MiL
-- **Communication Protocols**：CANBUS|CANFD|I2C|SPI|UART
+- **Programming** : C, Python, Simulink, FreeRTOS, RTA-OS
+- **Development Platforms** : IBM Rhapsody, Enterprise Architect, IBM Rational, Jenkins
+- **Embedded Platforms** : STM32, ESP32, Infineon Aurix, Arduino, Raspberry Pi
+- **Validation Platforms** : VectorCAST, HelixQAC, dSPACE, MicroAutoBOX, AVL Dyno
+- **Standards/Frameworks** : MISRA C, ASPICE, Software-Dev-Life-Cycle, KGAS, ISO26262, HiL, CiL, MiL
+- **Communication Protocols**：CANBUS, CANFD, I2C, SPI, UART
 
 ---
 
 ## 🚀 Featured Projects
-- **Range-Extended Hybrid Powertrain for Scooter:** Energy Management Strategy development and VCU prototyping.
-- **IoT LightSwarm Network (ESP32 + UDP):** Self-organizing node communication.  
-- **EV Inverter Firmware Optimizer:** Runtime CPU-load profiling and auto-report tool.  
+- **Range-Extended Hybrid Powertrain for Scooter:**
+-  Energy Management Strategy development and VCU prototyping.
+- **IoT LightSwarm Network (ESP32 + UDP):**
+-  Self-organizing node communication.  
+- **EV Inverter Firmware Optimizer:**
+-  Runtime CPU-load profiling and auto-report tool.  
 
 ---
 
