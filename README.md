@@ -5,10 +5,10 @@ Irvine, CA | ✉️ [kevin.chengchihlee@gmail.com](mailto:kevin.chengchihlee@gma
 ---
 
 ## 🎓 Education
-**University of California, Irvine**
+**University of California, Irvine**  
 M.S. in Embedded & Cyber-Physical Systems  *Sep 2025*
 
-**National Taiwan University**
+**National Taiwan University**  
 M.S. in Mechanical Engineering  *Aug 2019 – Jul 2021*  
 **Thesis:** *Energy Management Strategy for Range-Extended Hybrid Scooter with HiL Validation and Well-to-Wheel CO₂ Evaluation*
 
@@ -55,11 +55,11 @@ B.S. in Mechanical Engineering  *Aug 2014 – Jul 2018*
 
 ## 🚀 Featured Projects
 - **Range-Extended Hybrid Powertrain for Scooter:**
--  Energy Management Strategy development and VCU prototyping.
+  Energy Management Strategy development and VCU prototyping.
 - **IoT LightSwarm Network (ESP32 + UDP):**
--  Self-organizing node communication.  
+  Self-organizing node communication.  
 - **EV Inverter Firmware Optimizer:**
--  Runtime CPU-load profiling and auto-report tool.  
+  Runtime CPU-load profiling and auto-report tool.  
 
 ---
 
