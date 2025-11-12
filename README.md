@@ -6,14 +6,15 @@ Irvine, CA | ✉️ [kevin.chengchihlee@gmail.com](mailto:kevin.chengchihlee@gma
 
 ## 🎓 Education
 **University of California, Irvine**  
-M.S. in Embedded & Cyber-Physical Systems  *Sep 2025*
+M.S. in Embedded & Cyber-Physical Systems&nbsp;&nbsp;&nbsp;*Sep 2025*
 
 **National Taiwan University**  
-M.S. in Mechanical Engineering  *Aug 2019 – Jul 2021*  
+M.S. in Mechanical Engineering&nbsp;&nbsp;&nbsp;*Aug 2019 – Jul 2021*  
+  
 **Thesis:** *Energy Management Strategy for Range-Extended Hybrid Scooter with HiL Validation and Well-to-Wheel CO₂ Evaluation*
 
 **National Cheng Kung University**
-B.S. in Mechanical Engineering  *Aug 2014 – Jul 2018*
+B.S. in Mechanical Engineering&nbsp;&nbsp;&nbsp;*Aug 2014 – Jul 2018*
 
 ---
 
