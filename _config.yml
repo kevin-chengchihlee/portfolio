@@ -1,1 +1,5 @@
-
+title: Kevin Lee
+#logo: asset/img/headshot_circle.png
+text: Embedded SW/SYS engineer and enthusiast
+show_downloads: true
+remote_theme: pages-themes/minimal@v0.2.0
