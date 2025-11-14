@@ -1,5 +1,4 @@
 # Embedded SW/SYS engineer 
-[✉️kevin.chengchihlee@gmail.com](mailto:kevin.chengchihlee@gmail.com) | Irvine, CA  
 ### Senior Firmware Engineer at Delta Electronics with 3+ years of automotive electronics experience.<br> Currently pursuing an M.S. in Embedded & Cyber-Physical Systems at UC Irvine.
 
 [🗂️You can view my resume here](resume.md)  
@@ -9,7 +8,7 @@ M.S. Mechanical Engineering, National Taiwan University
 
 ---
 ## 🤝Let's Connect<br>
-[LinkedIn](https://www.linkedin.com/in/kevin-lee-253645167) | [GitHub](https://github.com/kevin-chengchihlee)  
+[LinkedIn](https://www.linkedin.com/in/kevin-lee-253645167) | [GitHub](https://github.com/kevin-chengchihlee) | [✉️kevin.chengchihlee@gmail.com](mailto:kevin.chengchihlee@gmail.com) | Irvine, CA  
 
 ---
 
