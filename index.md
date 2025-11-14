@@ -2,8 +2,8 @@
 ✉️ [kevin.chengchihlee@gmail.com](mailto:kevin.chengchihlee@gmail.com) | Irvine, CA  
 ### Senior Firmware Engineer at Delta Electronics with 3+ years of automotive electronics experience.<br> Currently pursuing an M.S. in Embedded & Cyber-Physical Systems at UC Irvine.
 
-###Welcome to check out my resume!  
-[📄Resume](assets/resume/Cheng_Chih_Lee_resume.pdf)  
+### Welcome to check out my resume!  
+[📄Resume](resume.md)  
 
 M.S. Embedded & Cyber-Physical Systems Graduate Student, UC Irvine  
 M.S. Mechanical Engineering, National Taiwan University  

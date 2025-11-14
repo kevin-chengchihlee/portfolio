@@ -5,4 +5,11 @@ title: Resume
 
 Welcome to check out my resume! :
 
-[📄 **Download Resume (PDF)**](/assets/resume/Kevin_Resume.pdf)
+[📄 **My Resume (PDF)**](/assets/resume/Cheng_Chih_Lee_resume.pdf)
+
+---
+
+<iframe src="assets/resume/Cheng_Chih_Lee_resume.pdf" 
+        width="100%" 
+        height="800px">
+</iframe>
