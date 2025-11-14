@@ -1,6 +1,10 @@
 ---
 layout: page
-title: My_Project
+title: Resume
+---
+
+Welcome to check out my resume! :
+
 ---
 
 <iframe src="assets/resume/Cheng_Chih_Lee_resume.pdf" 
