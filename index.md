@@ -17,6 +17,7 @@ M.S. Mechanical Engineering, National Taiwan University
 - **Range-Extended Hybrid Powertrain for Scooter:**  
   *Energy Management Strategy development and VCU prototyping.*<br>
   [⚙️Check for more detail!](assets/proj_vcu_ems/proj_vcu_ems.md)  
+![](assets/proj_vcu_ems/VCU.jpg)  
 
 - **IoT LightSwarm Network (ESP32 + UDP):**  
   Self-organizing node communication.  
