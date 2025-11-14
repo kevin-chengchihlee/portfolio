@@ -8,7 +8,8 @@ M.S. Embedded & Cyber-Physical Systems Graduate Student, UC Irvine
 M.S. Mechanical Engineering, National Taiwan University  
 
 ---
-## 🌐 Connect [LinkedIn](https://www.linkedin.com/in/kevin-lee-253645167) | [GitHub](https://github.com/kevin-chengchihlee)
+## 🌐 Connect<br>
+[LinkedIn](https://www.linkedin.com/in/kevin-lee-253645167) | [GitHub](https://github.com/kevin-chengchihlee)  
 ---
 
 ## 🚀 Featured Projects
