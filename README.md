@@ -1,23 +1,9 @@
-# Embedded SW/SYS Engineer
-Kevin Lee
-Irvine, CA | ✉️ [kevin.chengchihlee@gmail.com](mailto:kevin.chengchihlee@gmail.com)
-
+# Embedded SW/SYS engineer
+Irvine, CA | ✉️ [kevin.chengchihlee@gmail.com](mailto:kevin.chengchihlee@gmail.com)  
+Senior Firmware Engineer, Delta Electronics  
+M.S. Embedded & Cyber-Physical Systems Graduate Student, UC Irvine  
+M.S. Mechanical Engineering, NTU
 ---
-
-## 🎓 Education
-**University of California, Irvine**&nbsp;&nbsp;&nbsp;&nbsp;*Sep 2025*  
-M.S. in Embedded & Cyber-Physical Systems
-
-**National Taiwan University**&nbsp;&nbsp;&nbsp;&nbsp;*Aug 2019 – Jul 2021*    
-M.S. in Mechanical Engineering
-  
-**Thesis:** *Energy Management Strategy for Range-Extended Hybrid Scooter with HiL Validation and Well-to-Wheel CO₂ Evaluation*
-
-**National Cheng Kung University**&nbsp;&nbsp;&nbsp;&nbsp;*Aug 2014 – Jul 2018*
-B.S. in Mechanical Engineering
-
----
-
 ## 💼 Experience
 ### Delta Electronics Inc. — *Senior Firmware Engineer*  
 *Oct 2021 – May 2025*  
