@@ -1,7 +1,7 @@
 # Embedded SW/SYS engineer 
-### Senior Firmware Engineer at Delta Electronics with 3+ years of automotive electronics experience.<br> Currently pursuing an M.S. in Embedded & Cyber-Physical Systems at UC Irvine.
+### Senior Firmware Engineer at Delta Electronics with 3+ years of automotive electronics experience. Currently pursuing an M.S. in Embedded & Cyber-Physical Systems at UC Irvine.
 
-[🗂️You can view my resume here](resume.md)  
+[🗂️ View my resume here](resume.md)  
 
 M.S. Embedded & Cyber-Physical Systems Graduate Student, UC Irvine  
 M.S. Mechanical Engineering, National Taiwan University  
@@ -12,11 +12,12 @@ M.S. Mechanical Engineering, National Taiwan University
 
 ---
 
-## 🚀Featured Projects
+## 🚀Projects
 - **Range-Extended Hybrid Powertrain for Scooter:**  
   *Energy Management Strategy development and VCU prototyping.*  
   [⚙️Check for more detail](proj_vcu_ems.md)<br>  
-  VCU Prototype with energy-management-strategy embedded SW and CANBUS.
+  In this project, a hybrid-powertrain was proposed with the prototype made. I was responsible for the Energy-Management-Strategy design and development on a VCU prototype.  
+The VCU Prototype with energy-management-strategy embedded SW and CANBUS.
 ![VCU Prototype](assets/proj_vcu_ems/VCU_proto.jpg)
  I added indicators for quick status check.
 ![In operation](assets/proj_vcu_ems/VCU_operate.jpg)

@@ -3,8 +3,6 @@ layout: page
 title: Resume
 ---
 
-Welcome to check out my resume! :
-
 ---
 
 <iframe src="assets/proj_vcu_ems/ChengChih_Lee_PlugIn_Series_Hybrid_Scooter_Powertrain_EMS.pdf" 
