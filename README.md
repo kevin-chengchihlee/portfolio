@@ -3,7 +3,12 @@
 ### Senior Firmware Engineer at Delta Electronics with 3+ years of automotive electronics experience.<br> Currently pursuing an M.S. in Embedded & Cyber-Physical Systems at UC Irvine.
 
 M.S. Embedded & Cyber-Physical Systems Graduate Student, UC Irvine  
-M.S. Mechanical Engineering, National Taiwan University  
+M.S. Mechanical Engineering, National Taiwan University
+---
+
+## 🌐 Connect
+[LinkedIn](https://www.linkedin.com/in/kevin-lee-253645167) | [GitHub](https://github.com/kevin-chengchihlee) | [Portfolio Site](https://kevin-chengchihlee.github.io/portfolio/)
+
 ---
 ## 💼 Experience
 ### Delta Electronics Inc. — *Senior Firmware Engineer*  
@@ -54,9 +59,3 @@ M.S. Mechanical Engineering, National Taiwan University
   Self-organizing node communication.  
 - **EV Inverter Firmware Optimizer:**  
   Runtime CPU-load profiling and auto-report tool.  
-
----
-
-## 🌐 Connect
-[LinkedIn](https://www.linkedin.com/in/kevin-lee-253645167) | [GitHub](https://github.com/kevin-chengchihlee) | [Portfolio Site](https://kevin-chengchihlee.github.io/portfolio/)
-
