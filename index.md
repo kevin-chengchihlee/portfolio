@@ -19,7 +19,7 @@ M.S. Mechanical Engineering, National Taiwan University
 ![](assets/proj_vcu_ems/VCU_proto.jpg)
 ![](assets/proj_vcu_ems/VCU_operate.jpg)
 ![](assets/proj_vcu_ems/VCU_CiL.jpg)
-[⚙️Check for more detail!](assets/proj_vcu_ems/proj_vcu_ems.md)  
+ [⚙️Check for more detail!](assets/proj_vcu_ems/proj_vcu_ems.md)  
 
 - **IoT LightSwarm Network (ESP32 + UDP):**  
   Self-organizing node communication.  
