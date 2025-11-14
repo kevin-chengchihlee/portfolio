@@ -6,3 +6,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 header_pages:
   - index.md
   - resume.md
+  - assets/proj_vcu_ems/proj_vcu_ems.md
