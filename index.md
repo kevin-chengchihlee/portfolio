@@ -29,6 +29,8 @@ Software StateChart & VCU in operation.
 - **LightSwarm Network:**  
 C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|<br>
 Real-Time System<br>  
+  *IoT self-organizing network.*<br>  
+  [⚙️Check for more detail](proj_vcu_ems.md)<br>  
   In this project, a self-organizing LightSwarm is developped with communication through UDP. Multiple ESP32s are the swarm device and a RaspberryPi 5 as a master device for monitoring.  
 
 - **Infineon Aurix EV Traction Inverter Embedded SW:**  
