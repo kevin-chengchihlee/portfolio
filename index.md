@@ -19,10 +19,10 @@ M.S. Mechanical Engineering, National Taiwan University
   In this project, a hybrid-powertrain was proposed with the prototype made. I was responsible for the Energy-Management-Strategy design and development on a VCU prototype.  
 The VCU Prototype with energy-management-strategy embedded SW and CANBUS.
 ![VCU Prototype](assets/proj_vcu_ems/VCU_proto.jpg)
- I added indicators for quick status check.
-<img src="assets/proj_vcu_ems/VCU_operate.jpg" width="250">
  CiL test with dSpace through derive cycle and vehicle model.
 ![CiL for VCU Verification](assets/proj_vcu_ems/VCU_CiL.jpg)
+ I added indicators for quick status check.
+<img src="assets/proj_vcu_ems/VCU_operate.jpg" width="48%">
 
 - **IoT LightSwarm Network (ESP32 + UDP):**  
   Self-organizing node communication.  
