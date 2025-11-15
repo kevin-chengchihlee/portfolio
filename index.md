@@ -13,7 +13,7 @@ M.S. Mechanical Engineering, National Taiwan University
 ---
 
 ## 🚀Projects
-- **Range-Extended Hybrid Powertrain for Scooter:**  
+- **Range-Extended Hybrid Powertrain for MotorBike:**  
   *Energy Management Strategy development and VCU prototyping.*  
   [⚙️Check for more detail](proj_vcu_ems.md)<br>  
   In this project, a hybrid-powertrain was proposed with the prototype made. I was responsible for the Energy-Management-Strategy design and development on a VCU prototype.  
