@@ -1,6 +1,6 @@
 /* Reduce sidebar width */
 .sidebar {
-  width: 160px !important;   /* default is ~250px */
+  width: 100px !important;   /* default is ~250px */
 }
 
 .wrapper {
