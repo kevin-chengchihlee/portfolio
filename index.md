@@ -25,7 +25,7 @@ Indicators for quick status check in operation.
 <img src="assets/proj_vcu_ems/VCU_operate.jpg" width="48%">
 Indicators for quick status check in operation.  
 Software StateChart.  
-<img src="Chart-Flow.gif" width="48%">
+<img src="assets/proj_vcu_ems/Chart-Flow.gif" width="48%">
 
 - **IoT LightSwarm Network (ESP32 + UDP):**  
   Self-organizing node communication.  
