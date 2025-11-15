@@ -15,7 +15,7 @@ M.S. Mechanical Engineering, National Taiwan University
 ## 🚀Projects
 - **Range-Extended Hybrid Powertrain for MotorBike:**  
 C|SIMULINK|STM32|CANBUS|dSPACE|<br>
-Real-Time System|Automotive<br>  
+Real-Time System|Automotive<br>
   *Energy Management Strategy development and VCU prototyping.*  
   [⚙️Check for more detail](proj_vcu_ems.md)<br>  
   In this project, a hybrid-powertrain was proposed with the prototype made. I was responsible for the Energy-Management-Strategy design and development on a VCU prototype.  
@@ -29,8 +29,8 @@ Software StateChart & VCU in operation.
 - **LightSwarm Network:**  
 C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|<br>
 Real-Time System<br>  
-  *IoT self-organizing network.*<br>  
-  [⚙️Check for more detail](proj_vcu_ems.md)<br>  
+  *IoT self-organizing network.*<br>
+  [⚙️Check for more detail](proj_lightswarm.md)<br>  
   In this project, a self-organizing LightSwarm is developped with communication through UDP. Multiple ESP32s are the swarm device and a RaspberryPi 5 as a master device for monitoring.  
 
 - **Infineon Aurix EV Traction Inverter Embedded SW:**  
