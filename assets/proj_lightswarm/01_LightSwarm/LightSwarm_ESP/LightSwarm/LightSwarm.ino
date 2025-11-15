@@ -10,7 +10,7 @@ SwitchDoc Labs, August 2015
 #undef DEBUG
 
 char ssid[] = "iPhoneKL";  //  your network SSID (name)
-char pass[] = "123456789"; // your network password
+char pass[] = "--------"; // your network password
 
 unsigned int localPort = 1996; // local port to listen for UDP packets
 IPAddress serverAddress = IPAddress(255, 255, 255, 255); // default no IP Address
