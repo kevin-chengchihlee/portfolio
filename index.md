@@ -25,5 +25,5 @@ Software StateChart & VCU in operation.
 <img src="assets/proj_vcu_ems/Chart-Flow.gif" width="50%"><img src="assets/proj_vcu_ems/VCU_operate.jpg" width="50%">
 
 - **LightSwarm Network:**  
-  Self-organizing node communication through UDP with multiple ESP32s and RaspberryPi 5.  
+  In this project, a self-organizing LightSwarm is developped with communication through UDP. Multiple ESP32s are the swarm device and a RaspberryPi 5 as a master device for monitoring.  
 
