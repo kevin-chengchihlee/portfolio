@@ -22,7 +22,7 @@ The VCU Prototype with energy-management-strategy embedded SW and CANBUS.
  CiL test with dSpace through derive cycle and vehicle model.
 ![CiL for VCU Verification](assets/proj_vcu_ems/VCU_CiL.jpg)
 Indicators for quick status check in operation. Software StateChart.  
-<img src="assets/proj_vcu_ems/VCU_operate.jpg" width="48%"><img src="assets/proj_vcu_ems/Chart-Flow.gif" width="48%">
+<img src="assets/proj_vcu_ems/VCU_operate.jpg" width="50%"><img src="assets/proj_vcu_ems/Chart-Flow.gif" width="50%">
 
 - **IoT LightSwarm Network (ESP32 + UDP):**  
   Self-organizing node communication.  

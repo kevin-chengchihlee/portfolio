@@ -1,0 +1,8 @@
+/* Reduce sidebar width */
+.sidebar {
+  width: 160px !important;   /* default is ~250px */
+}
+
+.wrapper {
+  margin-left: 180px !important;
+}

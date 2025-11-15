@@ -7,3 +7,10 @@ header_pages:
   - index.md
   - resume.md
   - proj_vcu_ems.md
+
+plugins:
+  - jekyll-remote-theme
+
+# Include custom stylesheet
+include:
+  - assets/css/custom.css
