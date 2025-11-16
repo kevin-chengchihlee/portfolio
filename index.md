@@ -14,9 +14,9 @@ M.S. Mechanical Engineering, National Taiwan University
 
 ## 🚀Projects
 - ## Range-Extended Hybrid Powertrain for MotorBike:  
-*Energy Management Strategy development and VCU prototyping.*<br>  
+*Energy Management Strategy development and VCU prototyping.*<br>
 C|SIMULINK|STM32|CANBUS|dSPACE|<br>
-Real-Time System|Automotive<br>
+Real-Time System|Automotive<br>  
   [⚙️Check for more detail](proj_vcu_ems.md)<br>  
   In this project, a hybrid-powertrain was proposed with the prototype made. I was responsible for the Energy-Management-Strategy design and development on a VCU prototype.  
 The VCU Prototype with energy-management-strategy embedded SW and CANBUS.
