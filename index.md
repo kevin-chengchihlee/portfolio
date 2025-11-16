@@ -5,7 +5,7 @@
 **M.S. Embedded & Cyber-Physical Systems Graduate Student**, UC Irvine
 **M.S. Mechanical Engineering**, National Taiwan University 
 
-[🗂️ My resume.](resume.md)  
+[🗂️ My Resume <<-------------](resume.md)  
 
 ---
 ## 🤝Let's Connect<br>
