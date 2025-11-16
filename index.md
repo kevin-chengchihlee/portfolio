@@ -27,8 +27,7 @@ Software StateChart & VCU in operation.
 <img src="assets/proj_vcu_ems/Chart-Flow.gif" width="50%"><img src="assets/proj_vcu_ems/VCU_operate.jpg" width="50%">
 
 - ## LightSwarm Network:  
-C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|<br>
-Real-Time System<br>  
+C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|Real-Time Sys<br>  
   *IoT self-organizing network.*<br>  
   [🗂️Repository](https://github.com/kevin-chengchihlee/LightSwarm)<br>  
   [⚙️Check for more detail](proj_lightswarm.md)<br>  
@@ -39,7 +38,7 @@ C|Python|InfineonAurix|dSPACE|ASPICE|HiL|<br>
 Jenkins|VectorCAST|MISRA C<br>  
   Development of the Embedded SW of an EV Traction Inverter, including CPU load analysis and optimization. During this project, the automated verification pipeline was also established for saving ~85% labor per SW release.
 
-- ## p5v04a Camera Image Shot with Raspberry Pi 5:  
+- ## p5v04a Camera Img Shot with RaspberryPi 5:  
 Python|Raspberry Pi 5|Camera|<br>  
   [🗂️Repository](https://github.com/kevin-chengchihlee/p5v04a_camera_easyshot)<br>  
   [⚙️Check for more detail](proj_camera_p5v04a.md)<br>  
