@@ -47,7 +47,9 @@ C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|Real-Time Sys<br>
   *IoT self-organizing network.*<br>  
   [🗂️Repository](https://github.com/kevin-chengchihlee/LightSwarm)<br>  
   [⚙️Check for more detail](proj_lightswarm.md)<br>  
-  In this project, a self-organizing LightSwarm is developped with communication through UDP. Multiple ESP32s are the swarm device and a RaspberryPi 5 as a master device for monitoring.  
+  In this project, a self-organizing LightSwarm is developped with communication through UDP. Multiple ESP32s are the swarm device and a RaspberryPi 5 as a master device for monitoring.<br>  
+  The system flow-chart of the swarm network.
+![Swarm FlowChart](assets\proj_lightswarm\02_LightSwarm_FlowChart\swarm_flowchart.jpg)  
 
 ---
 - ## Infineon Aurix EV Traction Inverter Embedded SW:  
