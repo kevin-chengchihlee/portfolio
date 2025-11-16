@@ -1,3 +1,4 @@
+![Top Banner](assets\project_mosaic.jpg)  
 # Embedded SW/SYS engineer 
 ### Senior Firmware Engineer at Delta Electronics with 3+ years of automotive electronics experience. Currently pursuing an M.S. in Embedded & Cyber-Physical Systems at UC Irvine.
 
