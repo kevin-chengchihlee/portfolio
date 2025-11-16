@@ -29,7 +29,8 @@ Software StateChart & VCU in operation.
 - **LightSwarm Network:**  
 C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|<br>
 Real-Time System<br>  
-  *IoT self-organizing network.*<br>
+  *IoT self-organizing network.*<br>  
+  [🗂️Repository](https://github.com/kevin-chengchihlee/LightSwarm)<br>  
   [⚙️Check for more detail](proj_lightswarm.md)<br>  
   In this project, a self-organizing LightSwarm is developped with communication through UDP. Multiple ESP32s are the swarm device and a RaspberryPi 5 as a master device for monitoring.  
 
@@ -37,3 +38,11 @@ Real-Time System<br>
 C|Python|InfineonAurix|dSPACE|ASPICE|HiL|<br>
 Jenkins|VectorCAST|MISRA C<br>  
   Development of the Embedded SW of an EV Traction Inverter, including CPU load analysis and optimization. During this project, the automated verification pipeline was also established for saving ~85% labor per SW release.
+
+- **p5v04a Camera Image Shot with Raspberry Pi 5:**  
+Python|Raspberry Pi 5|Camera|<br>  
+  [🗂️Repository](https://github.com/kevin-chengchihlee/p5v04a_camera_easyshot)<br>  
+  [⚙️Check for more detail](proj_camera_p5v04a.md)<br>  
+  This is a small part of a group project. I'm responsible for developing the camera APIs for further integration.
+  In the repository, the scripts would run an easy image taking application. With input "s" or "q" for taking shots and quitting. The images would be stored in the same directory. 
+  ![Images Taken](assets\proj_camera_p5v04a\doc\cam0_1.jpg)  
