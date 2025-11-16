@@ -21,7 +21,7 @@ Real-Time System|Automotive<br>
   In this project, a hybrid-powertrain was proposed with the prototype made. I was responsible for the Energy-Management-Strategy design and development on a VCU prototype.  
 The VCU Prototype with energy-management-strategy embedded SW and CANBUS.
 ![VCU Prototype](assets/proj_vcu_ems/VCU_proto.jpg)
- CiL test with dSpace through derive cycle and vehicle model.
+ CiL test with dSpace through drive cycle and vehicle model.
 ![CiL for VCU Verification](assets/proj_vcu_ems/VCU_CiL.jpg)
 Software StateChart & VCU in operation.   
 <img src="assets/proj_vcu_ems/Chart-Flow.gif" width="50%"><img src="assets/proj_vcu_ems/VCU_operate.jpg" width="50%">
