@@ -2,7 +2,7 @@
 ![Top Banner](assets\project_mosaic.jpg)  
 *Hi I'm Kevin Lee, former Sr. Firmware Engineer at Delta Electronics with 4+ years of automotive electronics experience. Currently pursuing an M.S. in Embedded & Cyber-Physical Systems at UC Irvine. I'm passionate about creating reliable embedded software, system—and living a curious life connected to nature and people.*
 
-[🗂️ My resume here](resume.md)  
+[🗂️ My resume.](resume.md)  
 
 **M.S. Embedded & Cyber-Physical Systems Graduate Student**, UC Irvine
 **M.S. Mechanical Engineering, National Taiwan University**  
@@ -16,7 +16,7 @@
 ## 🚀Projects
 ---
 - ## Range-Extended Hybrid Powertrain for MotorBike:  
-*Energy Management Strategy development and VCU prototyping.*<br>
+**Energy Management Strategy development and VCU prototyping.**<br>
 *NTU Advanced Power R&D Center*<br>  
 C|SIMULINK|STM32|CANBUS|dSPACE|<br>
 Real-Time System|Automotive<br>  
@@ -31,7 +31,7 @@ Software StateChart & VCU in operation.
 
 ---
 - ## X-by-Wire Control EV Truck Platform:  
-*Fully by-wire controled EV truck platform development and HiL V&V platform development.*<br>
+**Fully by-wire controled EV truck platform development and HiL V&V platform development.**<br>
 *NTU Advanced Power R&D Center*<br>  
 EV|C|SIMULINK|STM32|CANBUS|dSPACE|<br>
 Real-Time System|Automotive|HiL|<br>  
@@ -43,8 +43,8 @@ Real-Time System|Automotive|HiL|<br>
 
 ---
 - ## LightSwarm Network:  
+**IoT self-organizing network.**<br>  
 C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|Real-Time Sys<br>  
-  *IoT self-organizing network.*<br>  
   [🗂️Repository](https://github.com/kevin-chengchihlee/LightSwarm)<br>  
   [⚙️Check for more detail](proj_lightswarm.md)<br>  
   In this project, a self-organizing LightSwarm is developped with communication through UDP. Multiple ESP32s are the swarm device and a RaspberryPi 5 as a master device for monitoring.<br>  
