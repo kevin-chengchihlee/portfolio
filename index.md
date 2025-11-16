@@ -16,6 +16,7 @@ M.S. Mechanical Engineering, National Taiwan University
 ## 🚀Projects
 - ## Range-Extended Hybrid Powertrain for MotorBike:  
 *Energy Management Strategy development and VCU prototyping.*<br>
+*NTU Advanced Power R&D Center*<br>  
 C|SIMULINK|STM32|CANBUS|dSPACE|<br>
 Real-Time System|Automotive<br>  
   [⚙️Check for more detail](proj_vcu_ems.md)<br>  
@@ -27,6 +28,17 @@ The VCU Prototype with energy-management-strategy embedded SW and CANBUS.
 Software StateChart & VCU in operation.   
 <img src="assets/proj_vcu_ems/Chart-Flow.gif" width="50%"><img src="assets/proj_vcu_ems/VCU_operate.jpg" width="50%">
 
+- ## X-by-Wire Control EV Truck Platform:  
+*Fully by-wire controled EV truck platform development and HiL V&V platform development.*<br>
+*NTU Advanced Power R&D Center*<br>  
+EV|C|SIMULINK|STM32|CANBUS|dSPACE|<br>
+Real-Time System|Automotive|HiL|<br>  
+  In this project, an X-by-Wire controlled BEV truck platform and a corresponding Hardware-in-the-Loop (HiL) subsystem platform were proposed and developed. By performing detailed modeling and simulation of the vehicle and its subsystems, the architecture and specifications for both the truck and the HiL platform were defined. All subsystems were then developed and integrated into a closed-loop HiL environment using dSPACE for real-time vehicle dynamics and environment simulation. Finally, the subsystems were deployed on the target vehicle and successfully validated through a proof-of-concept (PoC) test run.  
+  The top-view of the developed vehicle. There's no cockpit since it's fully by-wire/remote controlled.
+![XV_Top](assets\proj_x_by_wire_truck\xv_top.jpg)
+  One test run of the vehicle. The big box at the front contains all subsystem controllers.
+![XV_TestRun](assets\proj_x_by_wire_truck\XV_testrun.jpg)
+
 - ## LightSwarm Network:  
 C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|Real-Time Sys<br>  
   *IoT self-organizing network.*<br>  
@@ -35,6 +47,7 @@ C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|Real-Time Sys<br>
   In this project, a self-organizing LightSwarm is developped with communication through UDP. Multiple ESP32s are the swarm device and a RaspberryPi 5 as a master device for monitoring.  
 
 - ## Infineon Aurix EV Traction Inverter Embedded SW:  
+*Delta Electronics Inc.*<br>  
 C|Python|InfineonAurix|dSPACE|ASPICE|HiL|<br>
 Jenkins|VectorCAST|MISRA C<br>  
   Development of the Embedded SW of an EV Traction Inverter, including CPU load analysis and optimization. During this project, the automated verification pipeline was also established for saving ~85% labor per SW release.
