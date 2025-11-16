@@ -13,7 +13,7 @@ M.S. Mechanical Engineering, National Taiwan University
 ---
 
 ## 🚀Projects
-- **Range-Extended Hybrid Powertrain for MotorBike:**  
+- ## Range-Extended Hybrid Powertrain for MotorBike:  
 *Energy Management Strategy development and VCU prototyping.*<br>  
 C|SIMULINK|STM32|CANBUS|dSPACE|<br>
 Real-Time System|Automotive<br>
@@ -26,7 +26,7 @@ The VCU Prototype with energy-management-strategy embedded SW and CANBUS.
 Software StateChart & VCU in operation.   
 <img src="assets/proj_vcu_ems/Chart-Flow.gif" width="50%"><img src="assets/proj_vcu_ems/VCU_operate.jpg" width="50%">
 
-- **LightSwarm Network:**  
+- ## LightSwarm Network:  
 C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|<br>
 Real-Time System<br>  
   *IoT self-organizing network.*<br>  
@@ -34,12 +34,12 @@ Real-Time System<br>
   [⚙️Check for more detail](proj_lightswarm.md)<br>  
   In this project, a self-organizing LightSwarm is developped with communication through UDP. Multiple ESP32s are the swarm device and a RaspberryPi 5 as a master device for monitoring.  
 
-- **Infineon Aurix EV Traction Inverter Embedded SW:**  
+- ## Infineon Aurix EV Traction Inverter Embedded SW:  
 C|Python|InfineonAurix|dSPACE|ASPICE|HiL|<br>
 Jenkins|VectorCAST|MISRA C<br>  
   Development of the Embedded SW of an EV Traction Inverter, including CPU load analysis and optimization. During this project, the automated verification pipeline was also established for saving ~85% labor per SW release.
 
-- **p5v04a Camera Image Shot with Raspberry Pi 5:**  
+- ## p5v04a Camera Image Shot with Raspberry Pi 5:  
 Python|Raspberry Pi 5|Camera|<br>  
   [🗂️Repository](https://github.com/kevin-chengchihlee/p5v04a_camera_easyshot)<br>  
   [⚙️Check for more detail](proj_camera_p5v04a.md)<br>  
