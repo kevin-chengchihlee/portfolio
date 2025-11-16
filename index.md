@@ -59,7 +59,8 @@ Jenkins|VectorCAST|MISRA C<br>
   Development of the Embedded SW of an EV Traction Inverter, including CPU load analysis and optimization. During this project, the automated verification pipeline was also established for saving ~85% labor per SW release.
 
 ---
-- ## p5v04a Camera Img Shot with RaspberryPi 5:  
+- ## p5v04a Camera Shot with RaspberryPi 5:  
+**Driving p5v04a with RPi**<br>  
 Python|Raspberry Pi 5|Camera|<br>  
   [🗂️Repository](https://github.com/kevin-chengchihlee/p5v04a_camera_easyshot)<br>  
   [⚙️Check for more detail](proj_camera_p5v04a.md)<br>  
