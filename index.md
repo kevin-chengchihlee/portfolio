@@ -33,7 +33,7 @@ Software StateChart & VCU in operation.
 *NTU Advanced Power R&D Center*<br>  
 EV|C|SIMULINK|STM32|CANBUS|dSPACE|<br>
 Real-Time System|Automotive|HiL|<br>  
-  In this project, an X-by-Wire controlled BEV truck platform and a corresponding Hardware-in-the-Loop (HiL) subsystem platform were proposed and developed. By performing detailed modeling and simulation of the vehicle and its subsystems, the architecture and specifications for both the truck and the HiL platform were defined. All subsystems were then developed and integrated into a closed-loop HiL environment using dSPACE for real-time vehicle dynamics and environment simulation. Finally, the subsystems were deployed on the target vehicle and successfully validated through a proof-of-concept (PoC) test run.  
+  In this project, an X-by-Wire controlled BEV truck platform and a corresponding Hardware-in-the-Loop (HiL) subsystem platform were proposed and developed. By performing detailed modeling and simulation of the vehicle and its subsystems, the architecture and specifications for both the truck and the HiL platform were defined. All subsystems were then developed and integrated into a closed-loop HiL environment using dSPACE for real-time vehicle dynamics and environment simulation. Finally, the subsystems were deployed on the target vehicle and successfully validated through a proof-of-concept (PoC) test run.<br>    
   The top-view of the developed vehicle. There's no cockpit since it's fully by-wire/remote controlled.
 ![XV_Top](assets\proj_x_by_wire_truck\xv_top.jpg)
   One test run of the vehicle. The big box at the front contains all subsystem controllers.
