@@ -28,8 +28,8 @@ The VCU Prototype with energy-management-strategy embedded SW and CANBUS.
 ![CiL for VCU Verification](assets/proj_vcu_ems/VCU_CiL.jpg)
 Software StateChart & VCU in operation.   
 <img src="assets/proj_vcu_ems/Chart-Flow.gif" width="50%"><img src="assets/proj_vcu_ems/VCU_operate.jpg" width="50%">
----
 
+---
 - ## X-by-Wire Control EV Truck Platform:  
 *Fully by-wire controled EV truck platform development and HiL V&V platform development.*<br>
 *NTU Advanced Power R&D Center*<br>  
@@ -40,23 +40,23 @@ Real-Time System|Automotive|HiL|<br>
 ![XV_Top](assets\proj_x_by_wire_truck\xv_top.jpg)
   One test run of the vehicle. The big box at the front contains all subsystem controllers.
 ![XV_TestRun](assets\proj_x_by_wire_truck\XV_testrun.jpg)
----
 
+---
 - ## LightSwarm Network:  
 C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|Real-Time Sys<br>  
   *IoT self-organizing network.*<br>  
   [🗂️Repository](https://github.com/kevin-chengchihlee/LightSwarm)<br>  
   [⚙️Check for more detail](proj_lightswarm.md)<br>  
   In this project, a self-organizing LightSwarm is developped with communication through UDP. Multiple ESP32s are the swarm device and a RaspberryPi 5 as a master device for monitoring.  
----
 
+---
 - ## Infineon Aurix EV Traction Inverter Embedded SW:  
 *Delta Electronics Inc.*<br>  
 C|Python|InfineonAurix|dSPACE|ASPICE|HiL|<br>
 Jenkins|VectorCAST|MISRA C<br>  
   Development of the Embedded SW of an EV Traction Inverter, including CPU load analysis and optimization. During this project, the automated verification pipeline was also established for saving ~85% labor per SW release.
----
 
+---
 - ## p5v04a Camera Img Shot with RaspberryPi 5:  
 Python|Raspberry Pi 5|Camera|<br>  
   [🗂️Repository](https://github.com/kevin-chengchihlee/p5v04a_camera_easyshot)<br>  
@@ -64,3 +64,5 @@ Python|Raspberry Pi 5|Camera|<br>
   This is a small part of a group project. I'm responsible for developing the camera APIs for further integration.
   In the repository, the scripts would run an easy image taking application. With input "s" or "q" for taking shots and quitting. The images would be stored in the same directory. 
   ![Images Taken](assets\proj_camera_p5v04a\doc\cam0_1.jpg)  
+
+---
