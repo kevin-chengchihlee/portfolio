@@ -45,8 +45,8 @@ Real-Time System|Automotive|HiL|<br>
 - ## LightSwarm Network:  
 **IoT self-organizing network.**<br>  
 C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|Real-Time Sys<br>  
-  [🗂️Repository](https://github.com/kevin-chengchihlee/LightSwarm)<br>  
-  [⚙️Check for more detail](proj_lightswarm.md)<br>  
+  [🗂️Repository](https://github.com/kevin-chengchihlee/LightSwarm)[⚙️Check for more detail](proj_lightswarm.md)<br>  
+  
   In this project, a self-organizing LightSwarm is developped with communication through UDP. Multiple ESP32s are the swarm device and a RaspberryPi 5 as a master device for monitoring.<br>  
   The system flow-chart of the swarm network.
 ![Swarm FlowChart](assets\proj_lightswarm\02_LightSwarm_FlowChart\swarm_flowchart.jpg)  
@@ -62,8 +62,8 @@ Jenkins|VectorCAST|MISRA C<br>
 - ## p5v04a Camera Shot with RaspberryPi 5:  
 **Driving p5v04a with RPi**<br>  
 Python|Raspberry Pi 5|Camera|<br>  
-  [🗂️Repository](https://github.com/kevin-chengchihlee/p5v04a_camera_easyshot)<br>  
-  [⚙️Check for more detail](proj_camera_p5v04a.md)<br>  
+  [🗂️Repository](https://github.com/kevin-chengchihlee/p5v04a_camera_easyshot)[⚙️Check for more detail](proj_camera_p5v04a.md)<br>  
+  
   This is a small part of a group project. I'm responsible for developing the camera APIs for further integration.
   In the repository, the scripts would run an easy image taking application. With input "s" or "q" for taking shots and quitting. The images would be stored in the same directory. 
   ![Images Taken](assets\proj_camera_p5v04a\doc\cam0_1.jpg)  
