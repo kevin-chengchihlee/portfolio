@@ -1,6 +1,6 @@
 # Embedded SW/SYS engineer  
 ![Top Banner](assets\project_mosaic.jpg)  
-### Senior Firmware Engineer at Delta Electronics with 3+ years of automotive electronics experience. Currently pursuing an M.S. in Embedded & Cyber-Physical Systems at UC Irvine.
+*Hi I'm Kevin Lee, former Sr. Firmware Engineer at Delta Electronics with 4+ years of automotive electronics experience. Currently pursuing an M.S. in Embedded & Cyber-Physical Systems at UC Irvine. I'm passionate about creating reliable embedded software, system—and living a curious life connected to nature and people.*
 
 [🗂️ View my resume here](resume.md)  
 
