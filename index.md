@@ -72,6 +72,7 @@ Python|Raspberry Pi 5|Camera|<br>
 - ## Face Swapping:  
 **Detecting faces in images and swap with emojis**<br>  
 Python|Raspberry Pi 5|Camera|<br>  
+https://github.com/codersrule | https://github.com/gigaray<br>  
   [🗂️Repository](https://github.com/codersrule/REPLACE-HUMAN-HEADS-WITH-CAT-HEADS)  [⚙️Check for more detail](proj_face_swap.md)<br>  
   
   This is a a group project. In this project we used RPi 5 and camera p5v04a to capture live images and detect human faces with cv2 to return the coordinate and area of faces. An image with 16 animal emojis is prepared for cropping and background removing. After these two parts are ready, the cropped emoji will be resized and places on the image.
