@@ -65,7 +65,7 @@ Python|Raspberry Pi 5|Camera|<br>
 Team: [codersrule](https://github.com/codersrule) | [gigaray](https://github.com/gigaray)<br>  
   [🗂️Repository](https://github.com/codersrule/REPLACE-HUMAN-HEADS-WITH-CAT-HEADS)  [⚙️Check for more detail..to be uploaded](proj_face_swap.md)<br>  
   
-  This is a a group project. In this project we used RPi 5 and camera p5v04a to capture live images and detect human faces with cv2 to return the coordinate and area of faces. An image with 16 animal emojis is prepared for cropping and background removing. After these two parts are ready, the cropped emoji will be resized and places on the image.<br>  
+  This is a group project. In this project we used RPi 5 and camera p5v04a to capture live images and detect human faces with cv2 to return the coordinate and area of faces. An image with 16 animal emojis is prepared for cropping and background removing. After these two parts are ready, the cropped emoji will be resized and placed on the image.<br>  
    This is the emoji collection to use.
   ![hollywoof](assets\proj_face_swap\doc\hollywoof.png)  
    Before face swapping.
