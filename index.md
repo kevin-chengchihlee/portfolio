@@ -59,16 +59,6 @@ Jenkins|VectorCAST|MISRA C<br>
   Development of the Embedded SW of an EV Traction Inverter, including CPU load analysis and optimization. During this project, the automated verification pipeline was also established for saving ~85% labor per SW release.
 
 ---
-- ## p5v04a Camera Shot with RaspberryPi 5:  
-**Driving p5v04a with RPi**<br>  
-Python|Raspberry Pi 5|Camera|<br>  
-  [🗂️Repository](https://github.com/kevin-chengchihlee/p5v04a_camera_easyshot)  [⚙️Check for more detail](proj_camera_p5v04a.md)<br>  
-  
-  This is a small part of a group project. I'm responsible for developing the camera APIs for further integration.
-  In the repository, the scripts would run an easy image taking application. With input "s" or "q" for taking shots and quitting. The images would be stored in the same directory. 
-  ![Images Taken](assets\proj_camera_p5v04a\doc\cam0_1.jpg)  
-
----
 - ## Face Swapping:  
 **Detecting faces in camera image and swapping with emojis**<br>  
 Python|Raspberry Pi 5|Camera|<br>  
@@ -82,5 +72,15 @@ Team: [codersrule](https://github.com/codersrule) | [gigaray](https://github.com
   ![Before Swap](assets\proj_face_swap\doc\no_swapped.png)  
    After swapping.
   ![After Swap](assets\proj_face_swap\doc\hollywoof_swapped.png)  
+
+---
+- ## p5v04a Camera Shot with RaspberryPi 5:  
+**Driving p5v04a with RPi**<br>  
+Python|Raspberry Pi 5|Camera|<br>  
+  [🗂️Repository](https://github.com/kevin-chengchihlee/p5v04a_camera_easyshot)  [⚙️Check for more detail](proj_camera_p5v04a.md)<br>  
+  
+  This is a small part of a group project. I'm responsible for developing the camera APIs for further integration.
+  In the repository, the scripts would run an easy image taking application. With input "s" or "q" for taking shots and quitting. The images would be stored in the same directory. 
+  ![Images Taken](assets\proj_camera_p5v04a\doc\cam0_1.jpg)  
 
 ---
