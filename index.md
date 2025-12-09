@@ -63,7 +63,7 @@ Jenkins|VectorCAST|MISRA C<br>
 **Detecting faces in camera image and swapping with emojis**<br>  
 Python|Raspberry Pi 5|Camera|<br>  
 Team: [codersrule](https://github.com/codersrule) | [gigaray](https://github.com/gigaray)<br>  
-  [🗂️Repository](https://github.com/codersrule/REPLACE-HUMAN-HEADS-WITH-CAT-HEADS)  [⚙️Check for more detail..to be uploaded](proj_face_swap.md)<br>  
+  [🗂️Repository](https://github.com/codersrule/REPLACE-HUMAN-HEADS-WITH-CAT-HEADS)  [⚙️Check for more detail](proj_face_swap.md)<br>  
   
   This is a group project. In this project we used the RPi 5 and camera p5v04a to capture live images and detect human faces with cv2 to return the coordinate and area of faces detected. An image with 16 emojis is prepared for cropping and background removing. After these two parts are ready, the cropped emoji will be resized and placed on the image.<br>  
    This is the emoji collection to use.
