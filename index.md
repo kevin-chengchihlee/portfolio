@@ -40,6 +40,12 @@ Real-Time System|Automotive|HiL|<br>
 ![XV_Top](assets\proj_x_by_wire_truck\xv_top.jpg)
   One test run of the vehicle. The big box at the front contains all subsystem controllers.
 ![XV_TestRun](assets\proj_x_by_wire_truck\XV_testrun.jpg)
+  dSPACE Model Desk.
+![model_desk](assets\proj_x_by_wire_truck\dspace_vehicle_model.png)
+  Traction Motor HiL Platform.
+![Traction_Motor_HiL](assets\proj_x_by_wire_truck\aprdc_hil_motor_drive_final.png)
+  Steering System HiL Platform.
+![Steer_HiL](assets\proj_x_by_wire_truck\steering_hil_platform.png)
 
 ---
 - ## LightSwarm Network:  
