@@ -53,9 +53,11 @@ Real-Time System|Automotive|HiL|<br>
 C|STM32|CANFD|PCB<br>  
   [🗂️Repository](https://github.com/kevin-chengchihlee/STM32_CANFD)  [⚙️To be updated...](-)<br>  
   
-  In this project, a CANFD tranceiver module is designed with the functioning prototype made.
-  The tranceiver TCAN1042 is integrated with the common mode choke, terminal resistor and other components.
-  A STM32 evaluation board is utilized for testing. CANFD with 500k/2M baudrate is configured.
+  In this project, the full CANFD architecture is implemented.
+  A CANFD tranceiver module is designed with the functioning prototype made.
+  The tranceiver TCAN1042 is integrated with the common mode choke, terminal resistor and other components on a prototype PCB.
+  A STM32 evaluation board is utilized for the driver and embedded SW. CANFD with 500k/2M baudrate is configured and tested with loop-back mode, followed by actual physical network tests.
+  This completed project achieved to send/receive CANFD packets through the physical bus.
 ![Schematics](assets\proj_canfd\doc\canfd_module_img.png)
 ![Working Prototype](assets\proj_canfd\doc\canfd_3.jpeg)
 ![Working Prototype](assets\proj_canfd\doc\canfd_4.jpeg)  
