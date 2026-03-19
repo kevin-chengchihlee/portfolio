@@ -48,6 +48,19 @@ Real-Time System|Automotive|HiL|<br>
 ![Steer_HiL](assets\proj_x_by_wire_truck\steering_hil_platform.png)
 
 ---
+- ## CANFD Tranceiver Module:  
+**CANFD Tranceiver Module with TCAN1042 and STM32.**<br>  
+C|STM32|CANFD|PCB<br>  
+  [🗂️Repository](-)  [⚙️To be updated...](-)<br>  
+  
+  In this project, a CANFD tranceiver module is designed with the functioning prototype made.
+  The tranceiver TCAN1042 is integrated with the common mode choke, terminal resistor and other components.
+  A STM32 evaluation board is utilized for testing. CANFD with 500k/2M baudrate is configured.
+![Schematics](assets\proj_canfd\doc\canfd_module_img.png)
+![Working Prototype](assets\proj_canfd\doc\canfd_3.jpeg)
+![Working Prototype](assets\proj_canfd\doc\canfd_4.jpeg)  
+
+---
 - ## LightSwarm Network:  
 **IoT self-organizing network.**<br>  
 C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|Real-Time Sys<br>  
