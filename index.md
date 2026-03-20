@@ -62,7 +62,7 @@ Integrated key supporting components, including:
 Fabricated and assembled a working prototype board  
 **Embedded Software Development**  
 Used an STM32 evaluation board for driver and firmware implementation
-Configured FDCAN peripheral for CAN FD communication
+Configured FDCAN peripheral for CAN FD communication  
 **Implemented:**  
 Frame transmission and reception
 Interrupt-driven message handling
