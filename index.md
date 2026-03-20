@@ -60,20 +60,25 @@ Integrated key supporting components, including:
   Termination resistor for impedance matching
   Power conditioning and protection circuitry
 Fabricated and assembled a working prototype board  
+
 **Embedded Software Development**  
 Used an STM32 evaluation board for driver and firmware implementation
 Configured FDCAN peripheral for CAN FD communication  
+
 **Implemented:**  
 Frame transmission and reception
 Interrupt-driven message handling
 Loopback testing for early validation  
+
 **System Configuration & Testing**  
 Configured CAN FD with:
 500 kbps nominal bitrate
 2 Mbps data phase bitrate  
+
 **Verified functionality in two stages:**  
 Internal loopback mode (software validation)
 Physical bus testing (hardware + network validation)  
+
 **Results**  
 Successfully achieved reliable CAN FD packet transmission and reception
 Validated full communication chain:
