@@ -53,11 +53,33 @@ Real-Time System|Automotive|HiL|<br>
 C|STM32|CANFD|Time Quantum|PCB<br>  
   [🗂️Repository](https://github.com/kevin-chengchihlee/STM32_CANFD/tree/master)  [⚙️To be updated...](-)<br>  
   
-  In this project, the full CANFD architecture is implemented.
-  A CANFD tranceiver module is designed with the functioning prototype made.
-  The tranceiver TCAN1042 is integrated with the common mode choke, terminal resistor and other components on a prototype PCB.
-  A STM32 evaluation board is utilized for the driver and embedded SW. CANFD with 500k/2M baudrate is configured and tested with loop-back mode, followed by actual physical network tests.
-  This completed project achieved to send/receive CANFD packets through the physical bus.
+**Hardware Design**
+Designed a custom CAN FD transceiver PCB based on Texas Instruments TCAN1042
+Integrated key supporting components, including:
+  Common-mode choke for EMI suppression
+  Termination resistor for impedance matching
+  Power conditioning and protection circuitry
+Fabricated and assembled a working prototype board
+**Embedded Software Development**
+Used an STM32 evaluation board for driver and firmware implementation
+Configured FDCAN peripheral for CAN FD communication
+**Implemented:**
+<br>Frame transmission and reception
+<br>Interrupt-driven message handling
+<br>Loopback testing for early validation
+**System Configuration & Testing**
+<br>Configured CAN FD with:
+<br>500 kbps nominal bitrate
+<br>2 Mbps data phase bitrate
+**Verified functionality in two stages:**
+<br>Internal loopback mode (software validation)
+<br>Physical bus testing (hardware + network validation)
+**Results**
+<br>Successfully achieved reliable CAN FD packet transmission and reception
+<br>Validated full communication chain:
+<br>MCU ↔ Transceiver ↔ Physical Bus ↔ Node
+<br>Demonstrated stable performance under real bus conditions
+
 ![Schematics](assets\proj_canfd\doc\canfd_module_img.png)
 ![Working Prototype](assets\proj_canfd\doc\canfd_3.jpeg)
 ![Working Prototype](assets\proj_canfd\doc\canfd_4.jpeg)  
