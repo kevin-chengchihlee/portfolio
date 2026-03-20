@@ -53,32 +53,32 @@ Real-Time System|Automotive|HiL|<br>
 C|STM32|CANFD|Time Quantum|PCB<br>  
   [🗂️Repository](https://github.com/kevin-chengchihlee/STM32_CANFD/tree/master)  [⚙️To be updated...](-)<br>  
   
-**Hardware Design**
+**Hardware Design**  
 Designed a custom CAN FD transceiver PCB based on Texas Instruments TCAN1042
 Integrated key supporting components, including:
   Common-mode choke for EMI suppression
   Termination resistor for impedance matching
   Power conditioning and protection circuitry
-Fabricated and assembled a working prototype board
-**Embedded Software Development**
+Fabricated and assembled a working prototype board  
+**Embedded Software Development**  
 Used an STM32 evaluation board for driver and firmware implementation
 Configured FDCAN peripheral for CAN FD communication
-**Implemented:**
-<br>Frame transmission and reception
-<br>Interrupt-driven message handling
-<br>Loopback testing for early validation
-**System Configuration & Testing**
-<br>Configured CAN FD with:
-<br>500 kbps nominal bitrate
-<br>2 Mbps data phase bitrate
-**Verified functionality in two stages:**
-<br>Internal loopback mode (software validation)
-<br>Physical bus testing (hardware + network validation)
-**Results**
-<br>Successfully achieved reliable CAN FD packet transmission and reception
-<br>Validated full communication chain:
-<br>MCU ↔ Transceiver ↔ Physical Bus ↔ Node
-<br>Demonstrated stable performance under real bus conditions
+**Implemented:**  
+Frame transmission and reception
+Interrupt-driven message handling
+Loopback testing for early validation  
+**System Configuration & Testing**  
+Configured CAN FD with:
+500 kbps nominal bitrate
+2 Mbps data phase bitrate  
+**Verified functionality in two stages:**  
+Internal loopback mode (software validation)
+Physical bus testing (hardware + network validation)  
+**Results**  
+Successfully achieved reliable CAN FD packet transmission and reception
+Validated full communication chain:
+MCU ↔ Transceiver ↔ Physical Bus ↔ Node
+Demonstrated stable performance under real bus conditions  
 
 ![Schematics](assets\proj_canfd\doc\canfd_module_img.png)
 ![Working Prototype](assets\proj_canfd\doc\canfd_3.jpeg)
