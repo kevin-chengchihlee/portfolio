@@ -50,8 +50,8 @@ Real-Time System|Automotive|HiL|<br>
 ---
 - ## CANFD Tranceiver Module:  
 **CANFD Tranceiver Module with TCAN1042 and STM32.**<br>  
-C|STM32|CANFD|PCB<br>  
-  [🗂️Repository](https://github.com/kevin-chengchihlee/STM32_CANFD)  [⚙️To be updated...](-)<br>  
+C|STM32|CANFD|Time Quantum|PCB<br>  
+  [🗂️Repository](https://github.com/kevin-chengchihlee/STM32_CANFD/tree/master)  [⚙️To be updated...](-)<br>  
   
   In this project, the full CANFD architecture is implemented.
   A CANFD tranceiver module is designed with the functioning prototype made.
