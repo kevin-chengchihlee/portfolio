@@ -88,6 +88,51 @@ Demonstrated stable performance under real bus conditions
 ![Schematics](assets\proj_canfd\doc\canfd_module_img.png)
 ![Working Prototype](assets\proj_canfd\doc\canfd_3.jpeg)
 ![Working Prototype](assets\proj_canfd\doc\canfd_4.jpeg)  
+![Working Prototype](assets\proj_canfd\doc\canfd_4.jpeg)  
+
+---
+- ## Analog Devices MAX32660 with I²S MEMS Microphone
+**SPI-Based I²S Microphone Interface Using ARM Cortex-M4.**<br> 
+C | ARM Cortex-M4 | SPI | I²S | DMA | MEMS Microphone | Embedded Systems<br>  
+
+**Technical Challenge**
+The MAX32660's native I²S interface supports 16-bit words, while the ICS-43434 microphone requires 32-bit slots with 24-bit audio data. This project explores an SPI-based workaround to bridge the format mismatch.
+
+**Hardware Design**
+Interfaced the Analog Devices MAX32660 microcontroller with an Adafruit 6049 (ICS-43434) digital MEMS microphone.
+Designed an SPI-based interface to emulate I²S communication.
+Mapped SPI SCK, MISO, and MOSI signals to the microphone's BCLK, SD, and WS connections.
+
+**Embedded Software Development**
+Developed embedded C firmware targeting the ARM Cortex-M4 microcontroller.
+Configured SPI to generate I²S-compatible clock and word-select signals.
+Used predefined SPI MOSI patterns (0x0000 0x0000 0xFFFF 0xFFFF) to generate the WS signal.
+Investigated DMA-based SPI transmission and reception for continuous audio sampling.
+Designed bit alignment and extraction logic to recover 24-bit microphone samples from received SPI data.
+
+**System Configuration & Testing**
+Prototyped the SPI-based I²S workaround on MAX32690 before porting to MAX32660.
+Captured SPI-generated clock and WS waveforms using a logic analyzer.
+Verified word-select transitions and clock synchronization.
+Investigated the I²S one-bit data delay and corresponding sample alignment requirements.
+
+![spi driven i2s](assets\proj_spi_drive_i2s\32690_spi_mock_i2s_edge1.jpg)
+![spi driven i2s](assets\proj_spi_drive_i2s\32660_spi_mock_i2s_1.jpg)  
+
+**Captured Microphone Audio**
+<audio controls preload="metadata">
+  <source src="assets/proj_spi_drive_i2s/recording_new.wav" type="audio/wav">
+  Your browser does not support audio playback.
+</audio>
+
+[Download Audio Recording](assets\proj_spi_drive_i2s\recording_new.wav)
+
+---
+- ## Infineon Aurix EV Traction Inverter Embedded SW:  
+*Delta Electronics Inc.*<br>  
+C|Python|InfineonAurix|dSPACE|ASPICE|HiL|<br>
+Jenkins|VectorCAST|MISRA C<br>  
+  Development of the Embedded SW of an EV Traction Inverter, including CPU load analysis and optimization. During this project, the automated verification pipeline was also established for saving ~85% labor per SW release.
 
 ---
 - ## LightSwarm Network:  
@@ -98,13 +143,6 @@ C|Python|ESP32|RaspberryPi|UDP|FreeRTOS|Real-Time Sys<br>
   In this project, a self-organizing LightSwarm is developped with communication through UDP. Multiple ESP32s are the swarm device and a RaspberryPi 5 as a master device for monitoring.<br>  
   The system flow-chart of the swarm network.
 ![Swarm FlowChart](assets\proj_lightswarm\02_LightSwarm_FlowChart\swarm_flowchart.jpg)  
-
----
-- ## Infineon Aurix EV Traction Inverter Embedded SW:  
-*Delta Electronics Inc.*<br>  
-C|Python|InfineonAurix|dSPACE|ASPICE|HiL|<br>
-Jenkins|VectorCAST|MISRA C<br>  
-  Development of the Embedded SW of an EV Traction Inverter, including CPU load analysis and optimization. During this project, the automated verification pipeline was also established for saving ~85% labor per SW release.
 
 ---
 - ## Face Swapping:  
