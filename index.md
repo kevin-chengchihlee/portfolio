@@ -54,7 +54,8 @@ Software StateChart & VCU in operation.
 *NTU Advanced Power R&D Center*<br>  
 EV|C|SIMULINK|STM32|CANBUS|dSPACE|<br>
 Real-Time System|Automotive|HiL|<br>  
-  In this project, an X-by-Wire controlled BEV truck platform and a corresponding Hardware-in-the-Loop (HiL) subsystem platform were proposed and developed. By performing detailed modeling and simulation of the vehicle and its subsystems, the architecture and specifications for both the truck and the HiL platform were defined. All subsystems were then developed and integrated into a closed-loop HiL environment using dSPACE for real-time vehicle dynamics and environment simulation. Finally, the subsystems were deployed on the target vehicle and successfully validated through a proof-of-concept (PoC) test run.<br>    
+  In this project, an X-by-Wire controlled BEV truck platform and a corresponding Hardware-in-the-Loop (HiL) subsystem platform were proposed and developed. By performing detailed modeling and simulation of the vehicle and its subsystems, the architecture and specifications for both the truck and the HiL platform were defined.<br>    
+  All subsystems were then developed and integrated into a closed-loop HiL environment using dSPACE for real-time vehicle dynamics and environment simulation. Finally, the subsystems were deployed on the target vehicle and successfully validated through a proof-of-concept (PoC) test run.<br>    
   The top-view of the developed vehicle. There's no cockpit since it's fully by-wire/remote controlled.
 ![XV_Top](assets/proj_x_by_wire_truck/xv_top.jpg)
   One test run of the vehicle. The big box at the front contains all subsystem controllers.
@@ -77,13 +78,13 @@ C|STM32|CANFD|Time Quantum|PCB<br>
 **Hardware Design**  
 Designed a custom CAN FD transceiver PCB based on Texas Instruments TCAN1042  
 Integrated key supporting components, including:  
-  Common-mode choke for EMI suppression  
-  Termination resistor for impedance matching  
+  Common-mode choke for EMI suppression   
+  Termination resistor for impedance matching   
   Power conditioning and protection circuitry  
 Fabricated and assembled a working prototype board  
 
 **Embedded Software Development**  
-Used an STM32 evaluation board for driver and firmware implementation  
+Used an STM32 evaluation board for driver and firmware implementation     
 Configured FDCAN peripheral for CAN FD communication  
 
 **Implemented:**  
@@ -118,26 +119,27 @@ Demonstrated stable performance under real bus conditions
 **SPI-Based I²S Microphone Interface Using ARM Cortex-M4.**<br> 
 C | ARM Cortex-M4 | SPI | I²S | DMA | MEMS Microphone | Embedded Systems<br>  
 
-**Technical Challenge**
-The MAX32660's native I²S interface supports 16-bit words, while the ICS-43434 microphone requires 32-bit slots with 24-bit audio data. This project explores an SPI-based workaround to bridge the format mismatch.
+**Technical Challenge**<br> 
+The MAX32660's native I²S interface supports 16-bit words, while the ICS-43434 microphone requires 32-bit slots with 24-bit audio data.<br> 
+This project explores an SPI-based workaround to bridge the format mismatch.
 
-**Hardware Design**
-Interfaced the Analog Devices MAX32660 microcontroller with an Adafruit 6049 (ICS-43434) digital MEMS microphone.
-Designed an SPI-based interface to emulate I²S communication.
-Mapped SPI SCK, MISO, and MOSI signals to the microphone's BCLK, SD, and WS connections.
+**Hardware Design**<br> 
+Interfaced the Analog Devices MAX32660 microcontroller with an Adafruit 6049 (ICS-43434) digital MEMS microphone.  
+Designed an SPI-based interface to emulate I²S communication.  
+Mapped SPI SCK, MISO, and MOSI signals to the microphone's BCLK, SD, and WS connections.  
 
-**Embedded Software Development**
+**Embedded Software Development**<br> 
 Developed embedded C firmware targeting the ARM Cortex-M4 microcontroller.
 Configured SPI to generate I²S-compatible clock and word-select signals.
-Used predefined SPI MOSI patterns (0x0000 0x0000 0xFFFF 0xFFFF) to generate the WS signal.
-Investigated DMA-based SPI transmission and reception for continuous audio sampling.
-Designed bit alignment and extraction logic to recover 24-bit microphone samples from received SPI data.
+Used predefined SPI MOSI patterns (0x0000 0x0000 0xFFFF 0xFFFF) to generate the WS signal.  
+Investigated DMA-based SPI transmission and reception for continuous audio sampling.  
+Designed bit alignment and extraction logic to recover 24-bit microphone samples from received SPI data.  
 
-**System Configuration & Testing**
+**System Configuration & Testing**<br> 
 Prototyped the SPI-based I²S workaround on MAX32690 before porting to MAX32660.
-Captured SPI-generated clock and WS waveforms using a logic analyzer.
-Verified word-select transitions and clock synchronization.
-Investigated the I²S one-bit data delay and corresponding sample alignment requirements.
+Captured SPI-generated clock and WS waveforms using a logic analyzer.   
+Verified word-select transitions and clock synchronization.  
+Investigated the I²S one-bit data delay and corresponding sample alignment requirements.  
 
 ![spi driven i2s](assets/proj_spi_drive_i2s/32690_spi_mock_i2s_edge1.jpg)
 ![spi driven i2s](assets/proj_spi_drive_i2s/32660_spi_mock_i2s_1.jpg)  
